@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kassa
+ *
+ */
+module onlinestore {
+}
